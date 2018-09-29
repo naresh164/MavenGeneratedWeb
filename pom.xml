@@ -18,16 +18,4 @@
   <build>
     <finalName>MavenGeneratorWeb</finalName>
   </build>
-  <distributionManagement>
-    <repository>
-        <id>central</id>
-        <name>ip-172-31-30-25.us-west-2.compute.internal-releases</name>
-        <url>http://54.201.212.112:8081/artifactory/Mav-jfrog</url>
-    </repository>
-    <snapshotRepository>
-        <id>snapshots</id>
-        <name>ip-172-31-30-25.us-west-2.compute.internal-snapshots</name>
-        <url>http://54.201.212.112:8081/artifactory/Mav-jfrog</url>
-    </snapshotRepository>
-</distributionManagement>
 </project>
