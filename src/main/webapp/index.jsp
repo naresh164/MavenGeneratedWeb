@@ -1,9 +1,6 @@
 <html>
   
     <head>
-        <div style='position:absolute;z-index:0;left:0;top:0;width:100%;height:100%'>
-         <img src='vishnu_pic.jpg' style='width:60%;height:100%' alt='[]' />
-        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
         <style> 
             #navigation ul li{
             display: inline-block;
@@ -19,6 +16,10 @@
         }
         </style>
     </head>
+    
+        <div style='position:absolute;z-index:0;left:0;top:0;width:100%;height:100%'>
+         <img src='vishnu_pic.jpg' style='width:60%;height:100%' alt='[]' />
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <body>
       <div id="header">
   <div class="shell">
