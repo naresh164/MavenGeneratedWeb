@@ -32,6 +32,7 @@
         <li><a href="#">RESERVATION</a></li>
         <li><a href="#">LOCATION</a></li>
         <li><a href="#">CONTACT</a></li>
+        <li><a href="#">RAJESH</a></li>
       </ul>
     </div>
   </div>
